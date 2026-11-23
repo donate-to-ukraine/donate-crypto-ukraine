@@ -8,8 +8,8 @@
 - **Країна:** `UA`
 - **Веб-сторінка:** [index.html](./index.html) · [Публічний URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-lapka-dzyhy/)
 - **LLM-індекс:** [llms.txt](./llms.txt)
-- **Інша мова:** [English README](../dzygas-paw/README.md)
-- **Загальний каталог:** [README.md](../README.md)
+- **Інша мова:** [English README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dzygas-paw/README.md)
+- **Загальний каталог:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Криптогаманці для донатів
 

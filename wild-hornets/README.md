@@ -8,8 +8,8 @@
 - **Country:** `UA`
 - **Web Page:** [index.html](./index.html) · [Public URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/wild-hornets/)
 - **LLM Index:** [llms.txt](./llms.txt)
-- **Other Language:** [Український README](../dyki-shershni/README.md)
-- **All Funds:** [README.md](../README.md)
+- **Other Language:** [Український README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dyki-shershni/README.md)
+- **All Funds:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Cryptocurrency Donation Wallets
 

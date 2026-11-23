@@ -8,8 +8,8 @@
 - **Країна:** `UA`
 - **Веб-сторінка:** [index.html](./index.html) · [Публічний URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-dlia-ukrainy-mincyfry/)
 - **LLM-індекс:** [llms.txt](./llms.txt)
-- **Інша мова:** [English README](../aid-for-ukraine/README.md)
-- **Загальний каталог:** [README.md](../README.md)
+- **Інша мова:** [English README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-for-ukraine/README.md)
+- **Загальний каталог:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Криптогаманці для донатів
 

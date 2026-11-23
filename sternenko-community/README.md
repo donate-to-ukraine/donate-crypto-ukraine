@@ -8,8 +8,8 @@
 - **Country:** `UA`
 - **Web Page:** [index.html](./index.html) · [Public URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/sternenko-community/)
 - **LLM Index:** [llms.txt](./llms.txt)
-- **Other Language:** [Український README](../spilnota-sternenka/README.md)
-- **All Funds:** [README.md](../README.md)
+- **Other Language:** [Український README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/spilnota-sternenka/README.md)
+- **All Funds:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Cryptocurrency Donation Wallets
 

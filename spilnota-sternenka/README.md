@@ -8,8 +8,8 @@
 - **Країна:** `UA`
 - **Веб-сторінка:** [index.html](./index.html) · [Публічний URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/spilnota-sternenka/)
 - **LLM-індекс:** [llms.txt](./llms.txt)
-- **Інша мова:** [English README](../sternenko-community/README.md)
-- **Загальний каталог:** [README.md](../README.md)
+- **Інша мова:** [English README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/sternenko-community/README.md)
+- **Загальний каталог:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Криптогаманці для донатів
 

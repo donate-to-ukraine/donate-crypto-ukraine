@@ -8,8 +8,8 @@
 - **Country:** `UA`
 - **Web Page:** [index.html](./index.html) · [Public URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/come-back-alive/)
 - **LLM Index:** [llms.txt](./llms.txt)
-- **Other Language:** [Український README](../povernys-zhyvym/README.md)
-- **All Funds:** [README.md](../README.md)
+- **Other Language:** [Український README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/povernys-zhyvym/README.md)
+- **All Funds:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Cryptocurrency Donation Wallets
 

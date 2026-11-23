@@ -8,8 +8,8 @@
 - **Country:** `UA`
 - **Web Page:** [index.html](./index.html) · [Public URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/nova-ab3-3rd-army-corps-support-fund/)
 - **LLM Index:** [llms.txt](./llms.txt)
-- **Other Language:** [Український README](../fond-nova-ab3-tretiyi-armiiskyi-korpus/README.md)
-- **All Funds:** [README.md](../README.md)
+- **Other Language:** [Український README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/fond-nova-ab3-tretiyi-armiiskyi-korpus/README.md)
+- **All Funds:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Cryptocurrency Donation Wallets
 

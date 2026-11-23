@@ -6,8 +6,8 @@
 > Верифіковані криптовалютні гаманці українських благодійних фондів, медичних батальйонів та волонтерських ініціатив.
 
 - **Total organizations:** 15
-- **Machine-readable index:** [llms.txt](./llms.txt)
-- **Web catalog:** [index.html](./index.html)
+- **Machine-readable index:** [llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt)
+- **Web catalog:** [index.html](https://donate-to-ukraine.github.io/donate-crypto-ukraine/)
 
 ---
 
@@ -16,7 +16,7 @@
 - **EN:** Official crypto accounts opened by the Ministry of Digital Transformation of Ukraine to finance the Armed Forces of Ukraine and national defense.
 - **UA:** Офіційні криптогаманці Міністерства цифрової трансформації України для фінансового забезпечення Збройних Сил України та сил оборони.
 - **Country:** `UA`
-- **Pages:** [EN](./aid-for-ukraine/index.html) | [UA](./aid-dlia-ukrainy-mincyfry/index.html) | [EN llms.txt](./aid-for-ukraine/llms.txt) | [UA llms.txt](./aid-dlia-ukrainy-mincyfry/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-for-ukraine/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-dlia-ukrainy-mincyfry/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-for-ukraine/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/aid-dlia-ukrainy-mincyfry/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 - **EN:** Ukraine's largest foundation for competent military assistance, licensed to procure military-grade gear, drones, communications, and personnel training.
 - **UA:** Найбільший фонд компетентної допомоги армії, що має ліцензію на закупівлю товарів військового призначення, БПЛА, систем зв'язку та навчання особового складу.
 - **Country:** `UA`
-- **Pages:** [EN](./come-back-alive/index.html) | [UA](./povernys-zhyvym/index.html) | [EN llms.txt](./come-back-alive/llms.txt) | [UA llms.txt](./povernys-zhyvym/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/come-back-alive/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/povernys-zhyvym/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/come-back-alive/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/povernys-zhyvym/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 - **EN:** Military headquarters supplying Armed Forces of Ukraine units with reconnaissance and strike drones, optics, armored vehicles, and communications.
 - **UA:** Мілітарний штаб фонду, який забезпечує підрозділи ЗСУ дронами, оптикою, транспортом та сучасними засобами зв'язку.
 - **Country:** `UA`
-- **Pages:** [EN](./serhiy-prytula-charity-foundation/index.html) | [UA](./blahodiinyi-fond-serhiia-prytuly/index.html) | [EN llms.txt](./serhiy-prytula-charity-foundation/llms.txt) | [UA llms.txt](./blahodiinyi-fond-serhiia-prytuly/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/serhiy-prytula-charity-foundation/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-serhiia-prytuly/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/serhiy-prytula-charity-foundation/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-serhiia-prytuly/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -59,7 +59,7 @@
 - **EN:** Volunteer foundation focused on mass procurement of FPV drones, interceptor drones, and naval drones for more than 400 units of the Ukrainian military.
 - **UA:** Фонд, що спеціалізується на масових поставках FPV-дронів, дронів-перехоплювачів та морських безпілотників для понад 400 підрозділів ЗСУ.
 - **Country:** `UA`
-- **Pages:** [EN](./sternenko-community/index.html) | [UA](./spilnota-sternenka/index.html) | [EN llms.txt](./sternenko-community/llms.txt) | [UA llms.txt](./spilnota-sternenka/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/sternenko-community/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/spilnota-sternenka/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/sternenko-community/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/spilnota-sternenka/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -72,7 +72,7 @@
 - **EN:** Volunteer paramedic battalion providing frontline tactical medical aid, stabilization, and evacuation of wounded defenders.
 - **UA:** Добровольчий медичний батальйон парамедиків, який надає тактичну допомогу та здійснює евакуацію поранених безпосередньо на передовій.
 - **Country:** `UA`
-- **Pages:** [EN](./hospitallers-medical-battalion/index.html) | [UA](./medychnyi-batalion-hospitallery/index.html) | [EN llms.txt](./hospitallers-medical-battalion/llms.txt) | [UA llms.txt](./medychnyi-batalion-hospitallery/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/hospitallers-medical-battalion/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/medychnyi-batalion-hospitallery/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/hospitallers-medical-battalion/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/medychnyi-batalion-hospitallery/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@
 - **EN:** Partner fundraiser dedicated to supplying equipment, transport, and tactical gear for the 12th Special Forces Brigade Azov of the National Guard.
 - **UA:** Партнерський цільовий збір на забезпечення технікою, транспортом та спорядженням 12-ї бригади спеціального призначення НГУ «Азов».
 - **Country:** `UA`
-- **Pages:** [EN](./azov-brigade-support-faine-misto/index.html) | [UA](./zbir-dlia-bryhady-azov-faine-misto/index.html) | [EN llms.txt](./azov-brigade-support-faine-misto/llms.txt) | [UA llms.txt](./zbir-dlia-bryhady-azov-faine-misto/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/azov-brigade-support-faine-misto/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/zbir-dlia-bryhady-azov-faine-misto/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/azov-brigade-support-faine-misto/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/zbir-dlia-bryhady-azov-faine-misto/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -99,7 +99,7 @@
 - **EN:** Dedicated crypto fund supporting units of the National Guard of Ukraine, State Border Guard Service, and National Police.
 - **UA:** Цільовий криптогаманець для забезпечення підрозділів Національної гвардії, Державної прикордонної служби та Національної поліції України.
 - **Country:** `UA`
-- **Pages:** [EN](./national-guard-border-guard-police-fund/index.html) | [UA](./rakhunok-pidtrymky-nhu-dpsu-ta-natspolitsii/index.html) | [EN llms.txt](./national-guard-border-guard-police-fund/llms.txt) | [UA llms.txt](./rakhunok-pidtrymky-nhu-dpsu-ta-natspolitsii/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/national-guard-border-guard-police-fund/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/rakhunok-pidtrymky-nhu-dpsu-ta-natspolitsii/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/national-guard-border-guard-police-fund/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/rakhunok-pidtrymky-nhu-dpsu-ta-natspolitsii/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -112,7 +112,7 @@
 - **EN:** Ukrainian tech-community foundation delivering tactical drones, optics, communications, and rapid-response gear to frontline military units.
 - **UA:** Благодійний фонд української IT-спільноти, що оперативно забезпечує бойові підрозділи ЗСУ дронами, оптикою, зв'язком та тактичним спорядженням.
 - **Country:** `UA`
-- **Pages:** [EN](./kolo-charity-foundation/index.html) | [UA](./blahodiinyi-fond-kolo/index.html) | [EN llms.txt](./kolo-charity-foundation/llms.txt) | [UA llms.txt](./blahodiinyi-fond-kolo/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/kolo-charity-foundation/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-kolo/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/kolo-charity-foundation/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-kolo/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -125,7 +125,7 @@
 - **EN:** Nonprofit Ukrainian miltech initiative designing and mass-producing combat FPV drones, aerial interceptors, and strike UAVs for Ukrainian units.
 - **UA:** Некомерційна українська miltech-ініціатива, що розробляє та серійно виробляє бойові FPV-дрони й дрони-перехоплювачі для підрозділів ЗСУ.
 - **Country:** `UA`
-- **Pages:** [EN](./wild-hornets/index.html) | [UA](./dyki-shershni/index.html) | [EN llms.txt](./wild-hornets/llms.txt) | [UA llms.txt](./dyki-shershni/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/wild-hornets/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dyki-shershni/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/wild-hornets/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dyki-shershni/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -138,7 +138,7 @@
 - **EN:** Specialized charity foundation supplying Ukrainian artillery brigades with spare parts, repair tools, vehicles, communications, and optics.
 - **UA:** Спеціалізований благодійний фонд підтримки артилерійських бригад ЗСУ: запчастини, ремонтне обладнання, транспорт, зв'язок та оптика.
 - **Country:** `UA`
-- **Pages:** [EN](./reactive-post/index.html) | [UA](./reaktyvna-poshta/index.html) | [EN llms.txt](./reactive-post/llms.txt) | [UA llms.txt](./reaktyvna-poshta/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/reactive-post/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/reaktyvna-poshta/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/reactive-post/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/reaktyvna-poshta/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -151,7 +151,7 @@
 - **EN:** Official support fund providing drones, vehicles, communications, and tactical equipment directly to units of the 3rd Army Corps.
 - **UA:** Офіційний фонд забезпечення підрозділів Третього армійського корпусу БПЛА, транспортом, засобами зв'язку та тактичним спорядженням.
 - **Country:** `UA`
-- **Pages:** [EN](./nova-ab3-3rd-army-corps-support-fund/index.html) | [UA](./fond-nova-ab3-tretiyi-armiiskyi-korpus/index.html) | [EN llms.txt](./nova-ab3-3rd-army-corps-support-fund/llms.txt) | [UA llms.txt](./fond-nova-ab3-tretiyi-armiiskyi-korpus/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/nova-ab3-3rd-army-corps-support-fund/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/fond-nova-ab3-tretiyi-armiiskyi-korpus/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/nova-ab3-3rd-army-corps-support-fund/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/fond-nova-ab3-tretiyi-armiiskyi-korpus/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -164,7 +164,7 @@
 - **EN:** Patronage service providing medical treatment, prosthetics, rehabilitation, and comprehensive care for wounded fighters and returned POWs.
 - **UA:** Патронатна служба, яка опікується лікуванням, реабілітацією, протезуванням та супроводом поранених військових і звільнених з полону.
 - **Country:** `UA`
-- **Pages:** [EN](./angels-of-the-3rd-patronage-service/index.html) | [UA](./patronatna-sluzhba-ianholy-triiky/index.html) | [EN llms.txt](./angels-of-the-3rd-patronage-service/llms.txt) | [UA llms.txt](./patronatna-sluzhba-ianholy-triiky/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/angels-of-the-3rd-patronage-service/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/patronatna-sluzhba-ianholy-triiky/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/angels-of-the-3rd-patronage-service/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/patronatna-sluzhba-ianholy-triiky/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -177,7 +177,7 @@
 - **EN:** Tech-focused charity delivering drones, electronic warfare systems, Starlink terminals, and tactical hardware directly to frontline units.
 - **UA:** Технологічний благодійний фонд, що постачає безпілотники, засоби РЕБ, термінали Starlink та електроніку безпосередньо бойовим підрозділам.
 - **Country:** `UA`
-- **Pages:** [EN](./dzygas-paw/index.html) | [UA](./bf-lapka-dzyhy/index.html) | [EN llms.txt](./dzygas-paw/llms.txt) | [UA llms.txt](./bf-lapka-dzyhy/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dzygas-paw/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-lapka-dzyhy/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/dzygas-paw/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-lapka-dzyhy/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -189,7 +189,7 @@
 - **EN:** Dedicated charity foundation supporting the 13th Operational Brigade Khartiia of the National Guard of Ukraine with drones and equipment.
 - **UA:** Благодійний фонд, що забезпечує 13-ту бригаду оперативного призначення НГУ «Хартія» дронами, технікою та необхідним спорядженням.
 - **Country:** `UA`
-- **Pages:** [EN](./khartiia-charity-foundation/index.html) | [UA](./blahodiinyi-fond-khartiia/index.html) | [EN llms.txt](./khartiia-charity-foundation/llms.txt) | [UA llms.txt](./blahodiinyi-fond-khartiia/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/khartiia-charity-foundation/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-khartiia/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/khartiia-charity-foundation/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-khartiia/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |
@@ -200,7 +200,7 @@
 - **EN:** Ukrainian charitable foundation focused on frontline evacuation, humanitarian relief, and support for affected communities near combat zones.
 - **UA:** Благодійний фонд, що займається евакуацією з прифронтових територій, гуманітарною допомогою та підтримкою постраждалих від війни.
 - **Country:** `UA`
-- **Pages:** [EN](./east-sos/index.html) | [UA](./bf-shid-sos/index.html) | [EN llms.txt](./east-sos/llms.txt) | [UA llms.txt](./bf-shid-sos/llms.txt)
+- **Pages:** [EN](https://donate-to-ukraine.github.io/donate-crypto-ukraine/east-sos/index.html) | [UA](https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-shid-sos/index.html) | [EN llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/east-sos/llms.txt) | [UA llms.txt](https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-shid-sos/llms.txt)
 
 | Network | Standard / Asset | Address |
 | :--- | :--- | :--- |

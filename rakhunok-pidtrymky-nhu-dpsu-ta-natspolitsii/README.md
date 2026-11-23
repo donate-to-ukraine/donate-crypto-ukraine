@@ -8,8 +8,8 @@
 - **Країна:** `UA`
 - **Веб-сторінка:** [index.html](./index.html) · [Публічний URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/rakhunok-pidtrymky-nhu-dpsu-ta-natspolitsii/)
 - **LLM-індекс:** [llms.txt](./llms.txt)
-- **Інша мова:** [English README](../national-guard-border-guard-police-fund/README.md)
-- **Загальний каталог:** [README.md](../README.md)
+- **Інша мова:** [English README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/national-guard-border-guard-police-fund/README.md)
+- **Загальний каталог:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Криптогаманці для донатів
 

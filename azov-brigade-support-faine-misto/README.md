@@ -8,8 +8,8 @@
 - **Country:** `UA`
 - **Web Page:** [index.html](./index.html) · [Public URL](https://donate-to-ukraine.github.io/donate-crypto-ukraine/azov-brigade-support-faine-misto/)
 - **LLM Index:** [llms.txt](./llms.txt)
-- **Other Language:** [Український README](../zbir-dlia-bryhady-azov-faine-misto/README.md)
-- **All Funds:** [README.md](../README.md)
+- **Other Language:** [Український README](https://donate-to-ukraine.github.io/donate-crypto-ukraine/zbir-dlia-bryhady-azov-faine-misto/README.md)
+- **All Funds:** [README.md](https://donate-to-ukraine.github.io/donate-crypto-ukraine/README.md)
 
 ## Cryptocurrency Donation Wallets
 
