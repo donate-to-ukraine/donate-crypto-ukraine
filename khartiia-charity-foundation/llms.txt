@@ -1,0 +1,13 @@
+# Khartiia Charity Foundation
+
+> Dedicated charity foundation supporting the 13th Operational Brigade Khartiia of the National Guard of Ukraine with drones and equipment.
+
+- Ukrainian Title: Благодійний фонд «Хартія»
+- Country: UA
+- Page URL: https://donate-to-ukraine.github.io/donate-crypto-ukraine/khartiia-charity-foundation/
+- Ukrainian Version: https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-khartiia/
+- Root Directory: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Cryptocurrency Donation Wallets
+
+- TRX | TRON (TRC-20, USDT): TDLh74Zn529PusCb6F91nboQYx1PGrcPPR

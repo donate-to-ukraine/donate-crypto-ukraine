@@ -1,0 +1,14 @@
+# БФ «Лапка Дзиґи»
+
+> Технологічний благодійний фонд, що постачає безпілотники, засоби РЕБ, термінали Starlink та електроніку безпосередньо бойовим підрозділам.
+
+- Англійська назва: Dzyga's Paw
+- Країна реєстрації: UA
+- Офіційна сторінка каталогу: https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-lapka-dzyhy/
+- Англійська версія: https://donate-to-ukraine.github.io/donate-crypto-ukraine/dzygas-paw/
+- Головний каталог: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Криптогаманці для донатів
+
+- ETH | Ethereum (ERC-20) / BNB Smart Chain (BEP-20): 0xA71c620032653D9dB672E98a667D6BFF5347a998
+- TRX | TRON (TRC-20, USDT): TYxmAj448nvik449G6dJf4GakCqMHTpyw8

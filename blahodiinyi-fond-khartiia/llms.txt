@@ -1,0 +1,13 @@
+# Благодійний фонд «Хартія»
+
+> Благодійний фонд, що забезпечує 13-ту бригаду оперативного призначення НГУ «Хартія» дронами, технікою та необхідним спорядженням.
+
+- Англійська назва: Khartiia Charity Foundation
+- Країна реєстрації: UA
+- Офіційна сторінка каталогу: https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-khartiia/
+- Англійська версія: https://donate-to-ukraine.github.io/donate-crypto-ukraine/khartiia-charity-foundation/
+- Головний каталог: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Криптогаманці для донатів
+
+- TRX | TRON (TRC-20, USDT): TDLh74Zn529PusCb6F91nboQYx1PGrcPPR

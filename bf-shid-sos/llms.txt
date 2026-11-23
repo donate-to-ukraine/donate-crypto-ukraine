@@ -1,0 +1,13 @@
+# БФ «Схід SOS»
+
+> Благодійний фонд, що займається евакуацією з прифронтових територій, гуманітарною допомогою та підтримкою постраждалих від війни.
+
+- Англійська назва: East SOS
+- Країна реєстрації: UA
+- Офіційна сторінка каталогу: https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-shid-sos/
+- Англійська версія: https://donate-to-ukraine.github.io/donate-crypto-ukraine/east-sos/
+- Головний каталог: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Криптогаманці для донатів
+
+- ETH | Ethereum (ERC-20) / BNB Smart Chain (BEP-20, USDT / USDC): 0xEfe13696B61CEe341fb75a23F7084D92e590a340

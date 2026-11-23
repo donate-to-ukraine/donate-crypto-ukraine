@@ -1,0 +1,13 @@
+# East SOS
+
+> Ukrainian charitable foundation focused on frontline evacuation, humanitarian relief, and support for affected communities near combat zones.
+
+- Ukrainian Title: БФ «Схід SOS»
+- Country: UA
+- Page URL: https://donate-to-ukraine.github.io/donate-crypto-ukraine/east-sos/
+- Ukrainian Version: https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-shid-sos/
+- Root Directory: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Cryptocurrency Donation Wallets
+
+- ETH | Ethereum (ERC-20) / BNB Smart Chain (BEP-20, USDT / USDC): 0xEfe13696B61CEe341fb75a23F7084D92e590a340

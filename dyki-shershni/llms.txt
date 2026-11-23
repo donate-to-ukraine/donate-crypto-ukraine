@@ -1,0 +1,15 @@
+# Дикі Шершні
+
+> Некомерційна українська miltech-ініціатива, що розробляє та серійно виробляє бойові FPV-дрони й дрони-перехоплювачі для підрозділів ЗСУ.
+
+- Англійська назва: Wild Hornets
+- Країна реєстрації: UA
+- Офіційна сторінка каталогу: https://donate-to-ukraine.github.io/donate-crypto-ukraine/dyki-shershni/
+- Англійська версія: https://donate-to-ukraine.github.io/donate-crypto-ukraine/wild-hornets/
+- Головний каталог: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Криптогаманці для донатів
+
+- BTC | Bitcoin: bc1qgyp94lmcplnucjun7zqawmyu9v3rdma74ljku5
+- ETH | Ethereum (ERC-20): 0x3c86b9c127D3947D28eaCcB871aAEAC3AC957a2b
+- TRX | TRON (TRC-20, USDT): TRpiFy7gF9QiZXtCmn3rf5nddczdKyyDMs

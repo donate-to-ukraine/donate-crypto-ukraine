@@ -1,0 +1,14 @@
+# Dzyga's Paw
+
+> Tech-focused charity delivering drones, electronic warfare systems, Starlink terminals, and tactical hardware directly to frontline units.
+
+- Ukrainian Title: БФ «Лапка Дзиґи»
+- Country: UA
+- Page URL: https://donate-to-ukraine.github.io/donate-crypto-ukraine/dzygas-paw/
+- Ukrainian Version: https://donate-to-ukraine.github.io/donate-crypto-ukraine/bf-lapka-dzyhy/
+- Root Directory: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Cryptocurrency Donation Wallets
+
+- ETH | Ethereum (ERC-20) / BNB Smart Chain (BEP-20): 0xA71c620032653D9dB672E98a667D6BFF5347a998
+- TRX | TRON (TRC-20, USDT): TYxmAj448nvik449G6dJf4GakCqMHTpyw8

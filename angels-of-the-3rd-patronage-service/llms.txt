@@ -1,0 +1,15 @@
+# Angels of the 3rd (Patronage Service)
+
+> Patronage service providing medical treatment, prosthetics, rehabilitation, and comprehensive care for wounded fighters and returned POWs.
+
+- Ukrainian Title: Патронатна служба «Янголи Трійки»
+- Country: UA
+- Page URL: https://donate-to-ukraine.github.io/donate-crypto-ukraine/angels-of-the-3rd-patronage-service/
+- Ukrainian Version: https://donate-to-ukraine.github.io/donate-crypto-ukraine/patronatna-sluzhba-ianholy-triiky/
+- Root Directory: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Cryptocurrency Donation Wallets
+
+- BTC | Bitcoin: bc1qrvz8hjzmu925ye2x9jp22d6nxavf57kgmt32sd
+- ETH | Ethereum (ERC-20): 0xD7B0378E8704E680b967311Fde907DaF9dAF904c
+- TRX | TRON (TRC-20, USDT): TS6P1UdJH5agWwWqNtEcituWiMTvPSwdDR

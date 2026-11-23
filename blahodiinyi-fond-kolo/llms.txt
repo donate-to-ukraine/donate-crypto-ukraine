@@ -1,0 +1,15 @@
+# Благодійний фонд KOLO
+
+> Благодійний фонд української IT-спільноти, що оперативно забезпечує бойові підрозділи ЗСУ дронами, оптикою, зв'язком та тактичним спорядженням.
+
+- Англійська назва: KOLO Charity Foundation
+- Країна реєстрації: UA
+- Офіційна сторінка каталогу: https://donate-to-ukraine.github.io/donate-crypto-ukraine/blahodiinyi-fond-kolo/
+- Англійська версія: https://donate-to-ukraine.github.io/donate-crypto-ukraine/kolo-charity-foundation/
+- Головний каталог: https://donate-to-ukraine.github.io/donate-crypto-ukraine/llms.txt
+
+## Криптогаманці для донатів
+
+- BTC | Bitcoin: bc1q2s98fe0pmxg3kkx48an4pz6ewdlllgjquxxkav
+- ETH | Ethereum (ERC-20, ETH, USDT): 0xDf55b161CeeEa476766D1A565EE53697321d51d6
+- TRX | TRON (TRC-20, USDT): TMv36cCFAH1Mf2B3T78fDYG3RubjDdeemp
